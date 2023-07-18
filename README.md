@@ -1,2 +1,4 @@
-# Jayanth-Kumar-Aitha
-This is my personal portfolio website
+# Kowshik-Kumar-Aitha
+
+## To view the Profile
+#### >> https://kowshik-407.github.io/Kowshik-Kumar-Aitha/
